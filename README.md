@@ -32,7 +32,7 @@ Enhanced ability to prepare datasets for comprehensive analysis.
 This project focuses on performing exploratory data analysis (EDA) using MySQL. The primary objective was to clean and prepare the dataset, followed by in-depth analysis to extract meaningful insights. The project demonstrates how MySQL can be leveraged for comprehensive data analysis, including data import, transformation, and querying.
 
 ### Project Features
-- **Data Import:**: Imported a clean, complex dataset from previous MySQL Data Cleaning Project into MySQL for analysis.
+- **Data Import**: Imported a clean, complex dataset from previous MySQL Data Cleaning Project into MySQL for analysis.
 - **Exploratory Analysis**: Used SQL queries to perform descriptive statistics, identify trends, and uncover patterns within the data.
 - **Result Interpretation**: Analyzed the results to derive actionable insights that can inform decision-making.
 
