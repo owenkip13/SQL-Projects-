@@ -22,3 +22,29 @@ MySQL
 Proficiency in MySQL for data cleaning tasks.
 
 Enhanced ability to prepare datasets for comprehensive analysis.
+
+
+---------------------------------------------------------
+
+# MySQL Exploratory Data Analysis Project
+
+## Overview
+This project focuses on performing exploratory data analysis (EDA) using MySQL. The primary objective was to clean and prepare the dataset, followed by in-depth analysis to extract meaningful insights. The project demonstrates how MySQL can be leveraged for comprehensive data analysis, including data import, transformation, and querying.
+
+### Project Features
+- **Data Import:**: Imported a clean, complex dataset from previous MySQL Data Cleaning Project into MySQL for analysis.
+- **Exploratory Analysis**: Used SQL queries to perform descriptive statistics, identify trends, and uncover patterns within the data.
+- **Result Interpretation**: Analyzed the results to derive actionable insights that can inform decision-making.
+
+## Tools Used
+MySQL
+
+## Learning Outcomes
+- Enhanced proficiency in MySQL for data analysis and EDA.
+- Improved skills in data cleaning and preparation.
+- Developed the ability to draw insights from complex datasets using SQL.
+
+## Future Work
+Extend the analysis to include more advanced statistical methods.
+
+Visualize the findings using tools like Power BI or Tableau for enhanced data storytelling.
