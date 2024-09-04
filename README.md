@@ -43,8 +43,3 @@ MySQL
 - Enhanced proficiency in MySQL for data analysis and EDA.
 - Improved skills in data cleaning and preparation.
 - Developed the ability to draw insights from complex datasets using SQL.
-
-## Future Work
-Extend the analysis to include more advanced statistical methods.
-
-Visualize the findings using tools like Power BI or Tableau for enhanced data storytelling.
