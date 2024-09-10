@@ -65,7 +65,7 @@ This project involved conducting comprehensive data analysis and visualization u
 - Data Integrity: Ensured the integrity of the dataset by validating data quality and standardizing formats before analysis.
 - Tableau Dashboards: Created interactive dashboards with various chart types (bar charts, line graphs, heatmaps) to visualize key metrics and trends.
 - Exploratory Analysis: Conducted EDA to uncover significant relationships within the data, providing insights into operational efficiency and business performance.
-- 
+  
 ### Technologies Used
 
 - SQL: Utilized for querying, data manipulation, and cleaning processes.
