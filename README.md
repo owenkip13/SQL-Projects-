@@ -43,3 +43,31 @@ MySQL
 - Enhanced proficiency in MySQL for data analysis and EDA.
 - Improved skills in data cleaning and preparation.
 - Developed the ability to draw insights from complex datasets using SQL.
+
+_____________________________________________________________________________________
+
+
+# Exploring Sales Data: Data Analysis and Visualization with SQL and Tableau
+
+## Overview
+
+This project involved conducting comprehensive data analysis and visualization using SQL and Tableau. The goal was to perform data cleaning, exploratory data analysis, and create visualizations that provide actionable insights. The project demonstrates proficiency in SQL for querying and cleaning data, as well as Tableau for visualizing trends and patterns in a clear and interactive manner.
+
+### Project Objectives
+
+- Data Cleaning: Use SQL queries to clean, standardize, and prepare data for analysis by removing duplicates, null values, and inconsistencies.
+- Exploratory Data Analysis (EDA): Analyze datasets using SQL queries to identify key patterns, trends, and outliers.
+- Data Visualization: Develop dynamic and insightful dashboards in Tableau to present findings and make data-driven recommendations.
+- 
+### Key Features
+
+- SQL Querying: Extensive use of SQL for data manipulation, including SELECT, JOIN, and aggregate functions for cleaning and analyzing data.
+- Data Integrity: Ensured the integrity of the dataset by validating data quality and standardizing formats before analysis.
+- Tableau Dashboards: Created interactive dashboards with various chart types (bar charts, line graphs, heatmaps) to visualize key metrics and trends.
+- Exploratory Analysis: Conducted EDA to uncover significant relationships within the data, providing insights into operational efficiency and business performance.
+- 
+### Technologies Used
+
+- SQL: Utilized for querying, data manipulation, and cleaning processes.
+- Tableau: Used for building interactive and insightful data visualizations.
+- Data Visualization: Leveraged Tableau’s charting tools to create clear and actionable dashboards.
